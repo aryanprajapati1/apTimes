@@ -8,7 +8,7 @@ export default class App extends Component {
     return (
       <>
       <Navbar/>
-      <News noOFCards={4}/>
+      <News />
       </>
         )
   }
